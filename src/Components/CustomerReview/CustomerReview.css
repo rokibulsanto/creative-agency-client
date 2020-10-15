@@ -1,0 +1,15 @@
+.customerOrder{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.customerInput{
+    width: 400px;
+    padding:25px;
+}
+.customerfile{
+    width: 250px;
+    padding: 10px;
+    background-color: gray;
+    padding-bottom: 30px;
+
+}

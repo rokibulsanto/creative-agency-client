@@ -1,0 +1,12 @@
+.cardImg{
+    margin-left: 100px;
+}
+.cardMsg{
+    text-align: justify;
+    color:gray;
+}
+.cardName{
+    color:purple;
+    font-size: 20px;
+    font-weight: 500;
+}

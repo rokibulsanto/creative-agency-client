@@ -1,0 +1,23 @@
+.footerSection{
+    background-color: #FBD062;
+}
+.footerTitle{
+    padding: 20px;
+    font-weight: bold;
+}
+.formStyle{
+    padding:20px;
+}
+.btnStyleForm{
+    background-color: #111430;
+    color: white;
+    padding: 8px;
+    width: 100px;
+    border-radius: 8px;
+}
+.allrights{
+    text-align: center;
+}
+.santo{
+    color:purple;
+}

@@ -1,0 +1,20 @@
+.headerContainer{
+    background-color: #FBD062;
+    height: 700px;
+    clip-path: polygon(0 0, 100% 0, 100% 80%,  0 100%);
+}
+.brandTitle{
+    color:#111430;
+    font-weight: bold;
+}
+.hireBtn{
+    background-color: #111430;
+    color:white;
+    padding: 8px;
+    width: 100px;
+    border-radius: 8px;
+}
+.picture{
+    width: 624.8px;
+    height: 422.8px;
+}

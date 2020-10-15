@@ -1,0 +1,27 @@
+.carouselContainer{
+    width:800px;
+    height:500px;
+    background-color:#111430;
+    margin:0 auto;
+}
+.mainCarousel{
+    width:600px;
+    height:350px;
+    margin:0 auto;
+}
+.carouselItem{
+    height:350px;
+    margin-top:40px;
+}
+.carouselImage{
+    width: 600px;
+    height:350px;
+}
+.works{
+    text-align: center;
+    color:white;
+    padding-top: 30px;
+}
+.ourWork{
+    color:#7AB259;
+}

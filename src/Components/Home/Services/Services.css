@@ -1,0 +1,16 @@
+.services .card{
+    border-color: transparent;
+}
+.services .card:hover{
+    background-color: #111430;
+    color:wheat;
+    
+    
+}
+
+.serviceStyle{
+    color:#7AB259;
+}
+.serviceTitle{
+    text-align: center;
+}
