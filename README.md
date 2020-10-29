@@ -1,4 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Link
+•	Live site: https://creative-santo-client-site.web.app/
+
+## About this project
+
+•	Creative agency is a react based full stack project. The technology which I used in this project are Html,Css,react-bootstrap,firebase,Node js,Mondodb,heroku
+•	Clients can order any course which we provided.clients can see their orderd course and also can review for us
+•	Admin panel can added services at any time
+
+
+## Technology used in this project
+Html, Css, Bootstrap, JavaScript, react, react router, Node js, Mongodb, heroku, firebase
+
 
 ## Available Scripts
 
